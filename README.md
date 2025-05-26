@@ -1,5 +1,5 @@
 # MJT_Automated-Form-Filler
-This solution is as simple as it looks. However, it has been an amazing time saver. 
+This is a very simple automation solution that I've provided for my current employer. 
 The sample register has 37 line items. It takes approximately 3 minutes to manually create a cover sheet. 
 _**That means this solution saves 1 hour and 51 minutes for this job alone!**_ 
 Now imagine the savings considering that our company generates hundreds of coversheets per year.
