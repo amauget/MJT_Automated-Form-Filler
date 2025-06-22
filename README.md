@@ -16,5 +16,5 @@ Originally, the cover sheet was a word doc that was manually filled in, saved to
 I integrated the coversheet (see page two, or the "AF3000" sheet) into the excel document and added a hyperlink to each row of the submittal register.
 When the hyplink ("PDF") is selected, it captures the value of the submittal number, contract reference number, and item description, and pastes them into the AF3000 cover sheet on page 2.
 
-After then relevant values are added to the coversheet, another macro is called, saving the coversheet to PDF, and naming it accordingly.
+After the relevant values are added to the coversheet, another function is called to save the coversheet to PDF, and naming it accordingly.
 
